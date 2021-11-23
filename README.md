@@ -4,7 +4,8 @@
 
 >This project based on the linter configuration. setup project built with html and css
 
-![screenshot](\Users\user\Pictures\Screenshots.png)
+![Screenshot](https://user-images.githubusercontent.com/61976324/143077519-7ec39aed-d790-4a2e-9e17-0a684381cc73.png)
+
 
 Additional description about the project and its features.
 
