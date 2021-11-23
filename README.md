@@ -4,15 +4,15 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](.\Users\user\Pictures\Screenshots.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: html and css
+- Frameworks: NO
+- Technologies used: VScode, chrome, and github
 
 ## Live Demo
 
@@ -45,15 +45,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/oyelakinG9/setup_project.git)
+- Twitter: [@twitterhandle](https://github.com/oyelakinG9/setup_project.git)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oyelakin-ridwan-4b4a02b6)
 
 ## 🤝 Contributing
 
