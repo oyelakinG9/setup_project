@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+>This project based on the linter configuration. setup project built with html and css
 
-![screenshot](.\Users\user\Pictures\Screenshots.png)
+![screenshot](\Users\user\Pictures\Screenshots.png)
 
 Additional description about the project and its features.
 
